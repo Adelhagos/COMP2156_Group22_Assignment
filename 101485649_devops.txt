@@ -1,1 +1,1 @@
-"DevOps is interesting, i like github"
+"DevOps is interesting, i like GitHub ad GitHub actions"
