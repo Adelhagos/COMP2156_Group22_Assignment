@@ -1,4 +1,0 @@
-DevOps helps teams deliver software faster by automating repetitive tasks (e.g., builds, deployments) and integrating continuous delivery practices (CI/CD).
-CI/CD pipelines automate the process of integrating and deploying code changes. This reduces errors, enhances code quality, and enables more frequent releases.
-DevOps ensures that every change is integrated and tested automatically, making it easier to detect and fix issues earlier in the development process
-DevOps helps teams to build scalable systems that can adapt to the growing needs of an organization.
