@@ -1,1 +1,0 @@
-It is important to learn DevOps in sdlc or a number of reasons including faster software delivery and increased automation
